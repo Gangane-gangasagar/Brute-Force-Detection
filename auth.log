@@ -1,0 +1,17 @@
+oct 05 10:10:21 ubuntu sshd[101]:
+failed password for admin from 192.168.1.50
+oct 05 10:10:25 ubuntu sshd[102]:
+failed password for admin from 192.168.1.50
+oct 05 10:10:29 ubuntu sshd[103]:
+failed password for admin from 192.168.1.50
+oct 05 10:10:34 ubuntu sshd[104]:
+failed password for root from 192.168.1.50
+oct 05 10:10:10 ubuntu sshd[105]:
+failed password for uesr from 10:0:0:5
+oct 05 10:10:42 ubuntu sshd[106]:
+accepted password for admin from 192.168.1.50
+
+
+
+
+
